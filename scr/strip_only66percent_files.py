@@ -42,7 +42,7 @@ filtered_data = data[(data['If Principles'] >= 1) | (data['If Labs/Ops'] >= 1)]
 print(filtered_data)
 
 # Save the filtered data to a new CSV file
-output_path = 'filtered_training_set.csv'
+output_path = 'filtered_training_set_2.csv'
 filtered_data.to_csv(output_path, index=False)
 
 print(f"Filtered data saved to {output_path}")
