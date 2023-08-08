@@ -5,7 +5,7 @@ import re
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import spacy
+#import spacy
 import nltk
 import gensim
 import gensim.corpora as corpora
