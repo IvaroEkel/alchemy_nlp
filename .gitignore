@@ -5,3 +5,4 @@ share/
 alchemy_texts/
 
 .idea
+*.csv
